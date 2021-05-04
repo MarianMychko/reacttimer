@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/reacttimer/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/github.io/reacttimer/static/js/main.1ff1f315.chunk.js",
-    "main.js.map": "/github.io/reacttimer/static/js/main.1ff1f315.chunk.js.map",
-    "runtime-main.js": "/github.io/reacttimer/static/js/runtime-main.0efdd529.js",
-    "runtime-main.js.map": "/github.io/reacttimer/static/js/runtime-main.0efdd529.js.map",
-    "static/js/2.29ed3472.chunk.js": "/github.io/reacttimer/static/js/2.29ed3472.chunk.js",
-    "static/js/2.29ed3472.chunk.js.map": "/github.io/reacttimer/static/js/2.29ed3472.chunk.js.map",
-    "static/js/3.e6002623.chunk.js": "/github.io/reacttimer/static/js/3.e6002623.chunk.js",
-    "static/js/3.e6002623.chunk.js.map": "/github.io/reacttimer/static/js/3.e6002623.chunk.js.map",
-    "index.html": "/github.io/reacttimer/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/github.io/reacttimer/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.29ed3472.chunk.js.LICENSE.txt": "/github.io/reacttimer/static/js/2.29ed3472.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/github.io/reacttimer/static/media/logo.6ce24c58.svg"
+    "main.css": "/reacttimer/static/css/main.0f1f3fc1.chunk.css",
+    "main.js": "/reacttimer/static/js/main.770328c6.chunk.js",
+    "main.js.map": "/reacttimer/static/js/main.770328c6.chunk.js.map",
+    "runtime-main.js": "/reacttimer/static/js/runtime-main.b610b5ad.js",
+    "runtime-main.js.map": "/reacttimer/static/js/runtime-main.b610b5ad.js.map",
+    "static/js/2.b762abbb.chunk.js": "/reacttimer/static/js/2.b762abbb.chunk.js",
+    "static/js/2.b762abbb.chunk.js.map": "/reacttimer/static/js/2.b762abbb.chunk.js.map",
+    "static/js/3.17a95a58.chunk.js": "/reacttimer/static/js/3.17a95a58.chunk.js",
+    "static/js/3.17a95a58.chunk.js.map": "/reacttimer/static/js/3.17a95a58.chunk.js.map",
+    "index.html": "/reacttimer/index.html",
+    "static/css/main.0f1f3fc1.chunk.css.map": "/reacttimer/static/css/main.0f1f3fc1.chunk.css.map",
+    "static/js/2.b762abbb.chunk.js.LICENSE.txt": "/reacttimer/static/js/2.b762abbb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0efdd529.js",
-    "static/js/2.29ed3472.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.1ff1f315.chunk.js"
+    "static/js/runtime-main.b610b5ad.js",
+    "static/js/2.b762abbb.chunk.js",
+    "static/css/main.0f1f3fc1.chunk.css",
+    "static/js/main.770328c6.chunk.js"
   ]
 }
